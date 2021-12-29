@@ -12,4 +12,4 @@ When I'm not working, I really enjoy sketching, taking photographs of pretty pla
 - 🤔 I’m looking for help with learning Mandarin Chinese (or ideally a study-buddy). 
 - 💬 Ask me about: user research or creative coding. 
 - 📫 Reach me via email: a.pillai0620211@arts.ac.uk 
-- ⚡ Fun fact about me: I love collecting cat postcards (gift me one and I shall love you forever). 
+- ⚡ Fun fact about me: I like collecting cat postcards (gift me one and I shall love you forever). 
