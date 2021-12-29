@@ -13,8 +13,7 @@ When I'm not working, I really enjoy sketching, reading philosophy books, taking
 - 📫 Reach me via email: a.pillai0620211@arts.ac.uk 
 - ⚡ Fun fact about me: I like collecting cat postcards (gift me one and I shall love you forever). 
 
-
-
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashwathipillai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashwathipillai97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fiveapplesabove/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/helancav)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/37835951-ashwathi)  
 
