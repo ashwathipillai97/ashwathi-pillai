@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Ashwathi Pillai (she/her) and I'm currently pursuing a Masters in Data Science and AI for the Creative Industries at UAL. I have a multidisciplinary background - I started my career path with a Bachelor’s in Business Administration, and worked in Marketing, Finance, and UX Research roles for about five years. I'm currently pivoting to tech, and I'm very focused on accessibility for disabled users while coming up with solutions. 
+My name is Ashwathi Pillai (she/her) and I'm currently pursuing a Masters in Data Science and AI for the Creative Industries at UAL. I have a multidisciplinary background - I started my career path with a Bachelor’s in Business Administration, and worked in Marketing, Finance, and UX Research roles for about five years. I'm currently pivoting to tech, and I'm very focused on accessibility for disabled users while building solutions. 
 
 While not working, I really enjoy sketching, taking photographs of pretty places / people, and writing poetry. Get in touch if you'd like to discuss any projects, or just chat about anything! 
 
