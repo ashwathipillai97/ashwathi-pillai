@@ -12,27 +12,8 @@ When I'm not working, I really enjoy sketching, reading philosophy books, taking
 - 💬 Ask me about: user research or creative coding. 
 - 📫 Reach me via email: a.pillai0620211@arts.ac.uk 
 - ⚡ Fun fact about me: I like collecting cat postcards (gift me one and I shall love you forever). 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashwathipillai//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/fiveapplesabove//)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/goodreads.svg' alt='goodreads' height='40'>](https://www.goodreads.com/user/show/37835951-ashwathi)  
