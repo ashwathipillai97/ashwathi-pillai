@@ -4,7 +4,7 @@ My name is Ashwathi Pillai (she/her) and I'm currently pursuing a Masters in Dat
 
 
 
-- 🔭 I’m currently working on building two player Nash games whilst performing game theoretic analyses using Nashpy and Axelrod
+- 🔭 I’m currently working on building two player Nash games + performing game theoretic analyses using Nashpy and Axelrod
 - 🌱 I’m currently learning p5.js for generative art 
 - 👯 I’m looking to collaborate on designing a feminist citation system devoid of casteism 
 - 🤔 I’m looking for help with learning Mandarin 
