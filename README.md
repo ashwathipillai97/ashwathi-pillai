@@ -6,9 +6,9 @@ When I'm not working, I really enjoy sketching, taking photographs of pretty pla
 
 
 
-- 🔭 I’m currently working on building two player Nash games + performing game theoretic analysis using Nashpy and Axelrod.
-- 🌱 I’m currently learning p5.js for generative art. 
-- 👯 I’m looking to collaborate on designing a feminist citation system devoid of casteism. 
+- 🔭 I’m currently working on: building two player Nash games + performing game theoretic analysis using Nashpy and Axelrod.
+- 🌱 I’m currently learning: p5.js for generative art. 
+- 👯 I’m looking to collaborate on: designing a feminist citation system devoid of casteism. 
 - 💬 Ask me about: user research or creative coding. 
 - 📫 Reach me via email: a.pillai0620211@arts.ac.uk 
 - ⚡ Fun fact about me: I like collecting cat postcards (gift me one and I shall love you forever). 
