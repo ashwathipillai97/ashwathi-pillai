@@ -2,7 +2,7 @@
 
 My name is Ashwathi Pillai (she/her) and I'm currently pursuing an MSc in Data Science and AI for the Creative Industries at the University of the Arts London. I have a multidisciplinary background - I started my career path with a Bachelor’s in Business Administration from Kingston University, and worked in Marketing, Finance, and UX Research roles for about five years. I'm currently pivoting to tech, and I'm focused on accessibility for disabled users while building solutions. 
 
-When I'm not working, I really enjoy sketching, reading philosophy, taking photographs of pretty places / people, and writing poetry. Get in touch if you'd like to discuss a project, or just chat about anything! 
+When I'm not working, I really enjoy sketching, reading philosophy books, taking photographs of pretty places / people, and writing poetry. Get in touch if you'd like to discuss a project, or just chat about anything! 
 
 
 
