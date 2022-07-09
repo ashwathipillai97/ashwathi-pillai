@@ -11,7 +11,7 @@ When I'm not working, I really enjoy sketching, reading philosophy, taking photo
 - 👯 I’m looking to collaborate on: designing a feminist citation system devoid of casteism. 
 - 💬 Talk to me about: user research or creative coding. 
 - 📫 Reach me via email: a.pillai0620211@arts.ac.uk 
-- ⚡ Fun fact about me: I love collecting cat postcards. 
+- ⚡ Fun fact about me: I love collecting cat postcards, and making endless [Spotify playlists](https://open.spotify.com/user/w7iydxkqga5ljab2c7smt3wic). 
 
 <br />
 
