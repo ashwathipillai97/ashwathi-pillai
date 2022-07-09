@@ -6,7 +6,7 @@ When I'm not working, I really enjoy sketching, reading philosophy, taking photo
 
 
 
-- 🔭 I’m currently working on: building two player Nash games + performing game theoretic analysis using Nashpy and Axelrod.
+- 🔭 I’m currently working on: building an ai-powered musical interface for autistic stimming via timbre transfer.
 - 🌱 I’m currently learning: p5.js for generative art. 
 - 👯 I’m looking to collaborate on: designing a feminist citation system devoid of casteism. 
 - 💬 Talk to me about: user research or creative coding. 
